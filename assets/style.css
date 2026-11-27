@@ -427,6 +427,27 @@ td strong { color: var(--ink); }
   .nav a { font-size: 14px; }
 }
 
+/* 721-880px: the nav has one more item than it was designed for, so
+   collapse it to the same menu used on phones instead of squeezing. */
+@media (max-width: 880px) and (min-width: 721px) {
+  .brand-sub { display: none; }
+  .brand { min-width: 0; }
+  .nav { display: none; }
+  .nav-toggle-label {
+    display: block; margin-left: auto; font-size: 12px; letter-spacing: .08em;
+    text-transform: uppercase; color: var(--ink-2); cursor: pointer;
+    border: 1px solid var(--rule); padding: 5px 10px; border-radius: 2px;
+  }
+  .nav-toggle:checked ~ .nav {
+    display: flex; flex-direction: column; align-items: flex-start;
+    gap: 0; position: absolute; left: 0; right: 0; top: 100%;
+    background: var(--paper); border-bottom: 1px solid var(--rule);
+  }
+  .nav-toggle:checked ~ .nav a {
+    padding: 10px 0; width: 100%; border-bottom: 1px solid var(--rule-soft);
+  }
+}
+
 @media (max-width: 720px) {
   body { font-size: 16.5px; }
   .wrap { padding: 0 18px; }
