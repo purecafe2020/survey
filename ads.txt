@@ -1,7 +1,2 @@
 # ads.txt for survey.879879.xyz
-#
-# No authorised seller is declared yet, which is correct before AdSense approves
-# the site. Once you have a publisher ID (ca-pub-...), uncomment the line below
-# and replace the placeholder, then redeploy.
-#
-# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+google.com, pub-6619574927387223, DIRECT, f08c47fec0942fa0
