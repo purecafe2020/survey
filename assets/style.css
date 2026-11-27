@@ -427,9 +427,9 @@ td strong { color: var(--ink); }
   .nav a { font-size: 14px; }
 }
 
-/* 721-880px: the nav has one more item than it was designed for, so
-   collapse it to the same menu used on phones instead of squeezing. */
-@media (max-width: 880px) and (min-width: 721px) {
+/* 721-1024px: seven nav items need more room than the header has, so
+   collapse to the same menu used on phones instead of squeezing. */
+@media (max-width: 1024px) and (min-width: 721px) {
   .brand-sub { display: none; }
   .brand { min-width: 0; }
   .nav { display: none; }
