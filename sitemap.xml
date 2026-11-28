@@ -74,6 +74,42 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://survey.879879.xyz/zh/ai-training/dataannotation/"/>
   </url>
   <url>
+    <loc>https://survey.879879.xyz/en/ai-training/mindrift/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://survey.879879.xyz/en/ai-training/mindrift/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://survey.879879.xyz/zh/ai-training/mindrift/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://survey.879879.xyz/zh/ai-training/mindrift/"/>
+  </url>
+  <url>
+    <loc>https://survey.879879.xyz/zh/ai-training/mindrift/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://survey.879879.xyz/en/ai-training/mindrift/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://survey.879879.xyz/zh/ai-training/mindrift/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://survey.879879.xyz/zh/ai-training/mindrift/"/>
+  </url>
+  <url>
+    <loc>https://survey.879879.xyz/en/ai-training/outlier/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://survey.879879.xyz/en/ai-training/outlier/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://survey.879879.xyz/zh/ai-training/outlier/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://survey.879879.xyz/zh/ai-training/outlier/"/>
+  </url>
+  <url>
+    <loc>https://survey.879879.xyz/zh/ai-training/outlier/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://survey.879879.xyz/en/ai-training/outlier/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://survey.879879.xyz/zh/ai-training/outlier/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://survey.879879.xyz/zh/ai-training/outlier/"/>
+  </url>
+  <url>
     <loc>https://survey.879879.xyz/en/ai-training/vs-surveys/</loc>
     <lastmod>2026-11-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -182,6 +218,24 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://survey.879879.xyz/zh/expert-calls/compliance-red-lines/"/>
   </url>
   <url>
+    <loc>https://survey.879879.xyz/en/expert-calls/expert-call-rates-by-seniority/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://survey.879879.xyz/en/expert-calls/expert-call-rates-by-seniority/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://survey.879879.xyz/zh/expert-calls/expert-call-rates-by-seniority/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://survey.879879.xyz/zh/expert-calls/expert-call-rates-by-seniority/"/>
+  </url>
+  <url>
+    <loc>https://survey.879879.xyz/zh/expert-calls/expert-call-rates-by-seniority/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://survey.879879.xyz/en/expert-calls/expert-call-rates-by-seniority/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://survey.879879.xyz/zh/expert-calls/expert-call-rates-by-seniority/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://survey.879879.xyz/zh/expert-calls/expert-call-rates-by-seniority/"/>
+  </url>
+  <url>
     <loc>https://survey.879879.xyz/en/expert-calls/glg-vs-alphasights-vs-third-bridge/</loc>
     <lastmod>2026-11-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -216,6 +270,24 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://survey.879879.xyz/en/expert-calls/how-to-get-your-first-call/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://survey.879879.xyz/zh/expert-calls/how-to-get-your-first-call/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://survey.879879.xyz/zh/expert-calls/how-to-get-your-first-call/"/>
+  </url>
+  <url>
+    <loc>https://survey.879879.xyz/en/expert-calls/preparing-for-an-expert-call/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://survey.879879.xyz/en/expert-calls/preparing-for-an-expert-call/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://survey.879879.xyz/zh/expert-calls/preparing-for-an-expert-call/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://survey.879879.xyz/zh/expert-calls/preparing-for-an-expert-call/"/>
+  </url>
+  <url>
+    <loc>https://survey.879879.xyz/zh/expert-calls/preparing-for-an-expert-call/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://survey.879879.xyz/en/expert-calls/preparing-for-an-expert-call/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://survey.879879.xyz/zh/expert-calls/preparing-for-an-expert-call/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://survey.879879.xyz/zh/expert-calls/preparing-for-an-expert-call/"/>
   </url>
   <url>
     <loc>https://survey.879879.xyz/en/expert-calls/why-applications-get-rejected/</loc>
@@ -1278,6 +1350,42 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://survey.879879.xyz/en/skills/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://survey.879879.xyz/zh/skills/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://survey.879879.xyz/zh/skills/"/>
+  </url>
+  <url>
+    <loc>https://survey.879879.xyz/en/skills/getting-your-first-freelance-task/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://survey.879879.xyz/en/skills/getting-your-first-freelance-task/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://survey.879879.xyz/zh/skills/getting-your-first-freelance-task/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://survey.879879.xyz/zh/skills/getting-your-first-freelance-task/"/>
+  </url>
+  <url>
+    <loc>https://survey.879879.xyz/zh/skills/getting-your-first-freelance-task/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://survey.879879.xyz/en/skills/getting-your-first-freelance-task/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://survey.879879.xyz/zh/skills/getting-your-first-freelance-task/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://survey.879879.xyz/zh/skills/getting-your-first-freelance-task/"/>
+  </url>
+  <url>
+    <loc>https://survey.879879.xyz/en/skills/subtitle-and-translation-rates/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://survey.879879.xyz/en/skills/subtitle-and-translation-rates/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://survey.879879.xyz/zh/skills/subtitle-and-translation-rates/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://survey.879879.xyz/zh/skills/subtitle-and-translation-rates/"/>
+  </url>
+  <url>
+    <loc>https://survey.879879.xyz/zh/skills/subtitle-and-translation-rates/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://survey.879879.xyz/en/skills/subtitle-and-translation-rates/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://survey.879879.xyz/zh/skills/subtitle-and-translation-rates/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://survey.879879.xyz/zh/skills/subtitle-and-translation-rates/"/>
   </url>
   <url>
     <loc>https://survey.879879.xyz/en/skills/transcription-hourly-rate/</loc>
